@@ -1,5 +1,5 @@
 -- ===========================================
--- Lesson 1: SQL Fundamentals - Practice Exercises
+-- Lesson 1 test: SQL Fundamentals - Practice Exercises
 -- GameVerse Database
 -- ===========================================
 
